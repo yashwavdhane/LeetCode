@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
 | [1748-sum-of-unique-elements](https://github.com/yashwavdhane/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
