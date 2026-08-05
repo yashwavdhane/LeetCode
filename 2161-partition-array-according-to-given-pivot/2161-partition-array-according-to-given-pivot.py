@@ -2,14 +2,14 @@ class Solution(object):
     def pivotArray(self, nums, pivot):
         small =[]
         large = []
-        p =[]
+        p = 0
         for x in nums:
             if x<pivot:
                 small.append(x)
             elif x==pivot:
-                p.append(x)
+                p+=1
             else:
                 large.append(x)
-        return small+p+large
+        return small+p*[pivot]+large
             
         
