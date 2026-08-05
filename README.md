@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashwavdhane/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
