@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
