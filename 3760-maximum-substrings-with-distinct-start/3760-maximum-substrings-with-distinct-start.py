@@ -4,8 +4,4 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        m = set()
-        for x in s:
-            if x not in m:
-                m.add(x)
-        return len(m)
+        return len(set(s))
