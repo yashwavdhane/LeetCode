@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/yashwavdhane/LeetCode/tree/master/3516-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
