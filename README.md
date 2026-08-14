@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yashwavdhane/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashwavdhane/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yashwavdhane/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
