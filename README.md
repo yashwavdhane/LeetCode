@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yashwavdhane/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/yashwavdhane/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwavdhane/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/yashwavdhane/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yashwavdhane/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yashwavdhane/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/yashwavdhane/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwavdhane/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/yashwavdhane/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yashwavdhane/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/yashwavdhane/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/yashwavdhane/LeetCode/tree/master/3794-reverse-string-prefix) |
