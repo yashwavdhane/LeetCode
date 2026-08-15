@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/yashwavdhane/LeetCode/tree/master/3516-find-closest-person) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashwavdhane/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashwavdhane/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashwavdhane/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
