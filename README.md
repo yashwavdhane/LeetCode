@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/yashwavdhane/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/yashwavdhane/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3285-find-indices-of-stable-mountains](https://github.com/yashwavdhane/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
