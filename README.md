@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/yashwavdhane/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yashwavdhane/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/yashwavdhane/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/yashwavdhane/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/yashwavdhane/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
