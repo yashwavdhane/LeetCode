@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/yashwavdhane/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashwavdhane/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4020-elevator-requests-i](https://github.com/yashwavdhane/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/yashwavdhane/LeetCode/tree/master/3894-traffic-signal-color) |
+| [4020-elevator-requests-i](https://github.com/yashwavdhane/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Brainteaser
 |  |
 | ------- |
