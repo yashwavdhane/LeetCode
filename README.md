@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yashwavdhane/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yashwavdhane/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yashwavdhane/LeetCode/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashwavdhane/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yashwavdhane/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwavdhane/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
