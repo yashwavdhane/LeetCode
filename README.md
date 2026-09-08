@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/yashwavdhane/LeetCode/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashwavdhane/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3870-count-commas-in-range](https://github.com/yashwavdhane/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/yashwavdhane/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
