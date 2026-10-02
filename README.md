@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/yashwavdhane/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashwavdhane/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashwavdhane/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/yashwavdhane/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yashwavdhane/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashwavdhane/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/yashwavdhane/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yashwavdhane/LeetCode/tree/master/0796-rotate-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashwavdhane/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashwavdhane/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashwavdhane/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwavdhane/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashwavdhane/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/yashwavdhane/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yashwavdhane/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwavdhane/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
