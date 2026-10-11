@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashwavdhane/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/yashwavdhane/LeetCode/tree/master/2974-minimum-number-game) |
 | [3285-find-indices-of-stable-mountains](https://github.com/yashwavdhane/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashwavdhane/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashwavdhane/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwavdhane/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/yashwavdhane/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
