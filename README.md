@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yashwavdhane/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashwavdhane/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yashwavdhane/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashwavdhane/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashwavdhane/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwavdhane/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/yashwavdhane/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/yashwavdhane/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashwavdhane/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/yashwavdhane/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yashwavdhane/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashwavdhane/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashwavdhane/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashwavdhane/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
