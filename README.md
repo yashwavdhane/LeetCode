@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwavdhane/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashwavdhane/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashwavdhane/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwavdhane/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/yashwavdhane/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/yashwavdhane/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/yashwavdhane/LeetCode/tree/master/2974-minimum-number-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashwavdhane/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/yashwavdhane/LeetCode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashwavdhane/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwavdhane/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashwavdhane/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/yashwavdhane/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/1534-count-good-triplets) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashwavdhane/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashwavdhane/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashwavdhane/LeetCode/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwavdhane/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwavdhane/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashwavdhane/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashwavdhane/LeetCode/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwavdhane/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yashwavdhane/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/yashwavdhane/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/yashwavdhane/LeetCode/tree/master/2396-strictly-palindromic-number) |
